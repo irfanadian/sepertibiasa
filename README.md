@@ -54,9 +54,9 @@ A minimalism, personal blog theme for Astro, which inspired by [Astro Air](https
 
 ```markdown
 ---
-title: "Your Post Title"
-description: "A brief description of your post"
-pubDate: YYYY-MM-DD
+title: "SepertiBiasa"
+description: "cerita, celoteh, ide, gagasan"
+pubDate: 2025-01-15
 updatedDate(optional): YYYY-MM-DD
 tags(optional): ["tag1", "tag2"]
 ogImage(optional): "cover image URL"
